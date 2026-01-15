@@ -1,0 +1,16 @@
+.swiper-pagination-bullet {
+    background: white;
+    opacity: 0.5;
+}
+
+.swiper-pagination-bullet-active {
+    background: var(--color-primary);
+    opacity: 1;
+}
+
+/* Ensure zoom container fits nicely */
+.swiper-zoom-container>img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+}

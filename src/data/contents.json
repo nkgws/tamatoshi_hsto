@@ -1,0 +1,68 @@
+{
+    "arLinks": [
+        {
+            "id": "no3",
+            "label": "No.3駅",
+            "url": "#"
+        },
+        {
+            "id": "no7",
+            "label": "No.7駅",
+            "url": "#"
+        }
+    ],
+    "video": {
+        "title": "完成イメージ動画",
+        "youtubeUrl": "https://youtu.be/GjTnL0g3Z9A?si=Q2acA88oS4j4ZfaX"
+    },
+    "sections": [
+        {
+            "id": "project_summary",
+            "title": "延伸事業概要",
+            "images": [
+                "/extension_summary.png",
+                "/extension_summary.png",
+                "/extension_summary.png",
+                "/extension_summary.png",
+                "/extension_summary.png",
+                "/extension_summary.png",
+                "/extension_summary.png",
+                "/extension_summary.png",
+                "/extension_summary.png",
+                "/extension_summary.png"
+            ]
+        },
+        {
+            "id": "construction_photos",
+            "title": "開業区間工事写真",
+            "images": [
+                "/construction_photo.png",
+                "/construction_photo.png",
+                "/construction_photo.png",
+                "/construction_photo.png",
+                "/construction_photo.png",
+                "/construction_photo.png",
+                "/construction_photo.png",
+                "/construction_photo.png",
+                "/construction_photo.png",
+                "/construction_photo.png"
+            ]
+        },
+        {
+            "id": "manufacturing_process",
+            "title": "ＰＣ軌道桁製作工程",
+            "images": [
+                "/manufacturing_process.png",
+                "/manufacturing_process.png",
+                "/manufacturing_process.png",
+                "/manufacturing_process.png",
+                "/manufacturing_process.png",
+                "/manufacturing_process.png",
+                "/manufacturing_process.png",
+                "/manufacturing_process.png",
+                "/manufacturing_process.png",
+                "/manufacturing_process.png"
+            ]
+        }
+    ]
+}
